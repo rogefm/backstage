@@ -1,5 +1,11 @@
 # @backstage/plugin-explore-backend
 
+## 0.0.2-next.0
+
+### Patch Changes
+
+- 358554ff3c: Bump `msw` to `^0.49.0`
+
 ## 0.0.1
 
 ### Patch Changes

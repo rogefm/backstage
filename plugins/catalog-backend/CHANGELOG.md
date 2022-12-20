@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-backend
 
+## 1.6.1-next.0
+
+### Patch Changes
+
+- d136793ff0: Fixed an issue where internal references in the catalog would stick around for longer than expected, causing entities to not be deleted or orphaned as expected.
+
 ## 1.6.0
 
 ### Minor Changes

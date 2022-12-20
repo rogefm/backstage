@@ -194,5 +194,9 @@
     "@backstage/plugin-vault-backend": "0.2.5",
     "@backstage/plugin-xcmetrics": "0.2.32"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1671551781",
+    "fluffy-forks-happen",
+    "tasty-impalas-mix"
+  ]
 }

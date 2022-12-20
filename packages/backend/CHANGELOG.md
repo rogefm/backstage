@@ -1,5 +1,15 @@
 # example-backend
 
+## 0.2.79-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-explore-backend@0.0.2-next.0
+  - @backstage/plugin-catalog-backend@1.6.1-next.0
+  - @backstage/plugin-scaffolder-backend@1.9.1-next.0
+  - @backstage/plugin-scaffolder-backend-module-rails@0.4.8-next.0
+
 ## 0.2.78
 
 ### Patch Changes
